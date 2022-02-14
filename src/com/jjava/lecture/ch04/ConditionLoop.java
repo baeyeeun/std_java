@@ -26,6 +26,9 @@ public class ConditionLoop {
 	 * 
 	 * 번외 
 	 * if 안에 또 if를 넣을 수 있을까? 있음(무한대로 가능)
+	 * if(조건식){
+	 * if(){
+	 * if()
 	 * swtich
 	 * 
 	 * 반복문
@@ -35,6 +38,11 @@ public class ConditionLoop {
 	 * while : 무한루프에 빠질 수 있는 단점이 있음
 	 * 
 	 * do-while
+	 * 
+	 * do{
+	 * 
+	 * } while() {
+	 * }
 	 * 
 	 * 참고
 	 * 
@@ -48,6 +56,7 @@ public class ConditionLoop {
 	  * default
 	  * break
 	  * */
+	
 
 	}
 

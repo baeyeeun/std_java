@@ -42,6 +42,12 @@ public class ConditionLoop {
 	 * 
 	 * continue
 	 * */
+	 /*switch
+	  * case
+	  * break
+	  * default
+	  * break
+	  * */
 
 	}
 

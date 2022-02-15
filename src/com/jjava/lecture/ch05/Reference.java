@@ -29,6 +29,16 @@ public class Reference {
 		 * str1.equals(str2); 문자열 비교
 		 * 
 		 * */
+		
+		 //배열 : 동일 데이터들의 집합
+		 // 예) 1학년 2반 학생들의 수학 성적(15명)
+		 // 74, 75, 88, 90, 95...100 (15개)
+		
+		 int mathScore010201 = 74;
+		 int mathScore010202 = 75;
+		 int mathScore010203 = 88;
+		 
+		 int mathScore010215 = 100;
 
 	}
 

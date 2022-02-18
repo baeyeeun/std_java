@@ -16,5 +16,34 @@ public class Book {
 	
 	Date pubDate;
 	
+//	method
+	
+//	등록
+	
+	public void save() {
+		
+		
+	}
+	
+//	식제
+	
+	public void delete() {
+		
+	}
+	
+//	수정
+	
+//	읽기
+	
+//	찾기
+	
+//	주소 검색
+	
+//	비밀번호 관련
+	
+//	로그인
+	
+//	로그아웃
+	
 	
 }

@@ -11,7 +11,7 @@ public class Book {
 	
 	String price="";
 	
-	String review ="";
+	long review;
 	String index = "";
 	
 	Date pubDate;

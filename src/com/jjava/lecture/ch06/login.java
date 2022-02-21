@@ -18,5 +18,9 @@ public remember(String id, String password) {
 public loginbtn() {
 	
 }
+
+public logout(String id, String password) {
+	
+}
 }
 

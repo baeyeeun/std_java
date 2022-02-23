@@ -6,7 +6,7 @@ public class Member {
 
 	String name="";
 	String password="";
-	Date birth = "";
+	Date birth;
 	
 	
 	

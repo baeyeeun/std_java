@@ -16,22 +16,22 @@ public class BookManagement {
 	Date bookUpload;
 	
 //추가
-	public class bookAdd(int bookTypeCd, String bookName, String writer, String publicsher,
-			int bookPrice) {
-		
-		
-	}
-	
-//제거
-	public class bookDelete() {
-		
-		
-	}
-	
-//변경
-	public class bookChange() {
-		
-	}
+//	public class bookAdd(int bookTypeCd, String bookName, String writer, String publicsher,
+//			int bookPrice) {
+//		
+//		
+//	}
+//	
+////제거
+//	public class bookDelete() {
+//		
+//		
+//	}
+//	
+////변경
+//	public class bookChange() {
+//		
+//	}
 
 } 
 

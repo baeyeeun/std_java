@@ -8,19 +8,21 @@ public class login {
 
 //다음에 기억하기
 
-public remember(String id, String password) {
+public login(String id, String password) {
 	
-
+	this.id = id;
+	this.password = password;
+	
 }
 
 //로그인 버튼
 
-public loginbtn() {
+//public loginbtn() {
 	
-}
+//}
 
-public logout(String id, String password) {
+//public logout(String id, String password) {
 	
-}
+//}
 }
 

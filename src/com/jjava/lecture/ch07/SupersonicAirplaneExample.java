@@ -13,6 +13,14 @@ public class SupersonicAirplaneExample {
 //		supersonicAirplane.flyMode = SupersonicAirplane.NORMAL;
 //		supersonicAirplane.fly();
 //		supersonicAirplane.land();
+		
+		supersonicAirplane.takeOff();
+		supersonicAirplane.fly();
+		supersonicAirplane.flyMode = Constants.SUPERSONIC;
+		supersonicAirplane.fly();
+		supersonicAirplane.flyMode = Constants.NORMAL;
+		supersonicAirplane.fly();
+		supersonicAirplane.land();
 
 	}
 

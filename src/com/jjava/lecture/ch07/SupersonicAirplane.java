@@ -23,12 +23,18 @@ public class SupersonicAirplane extends Airplane{
 	public int flyMode = Constants.NORMAL;
 
 	@Override
-	public void fly(flyMode == Constants.SUPERSONIC) {
-		System.out.println("초음속 비행입니다.");
-		}else 
+	public void fly() {
+		if(flyMode == Constants.SUPERSONIC) {
+			
+			System.out.println("초음속 비행입니다.");
+		
+		} else {
+			
 		
 		super.fly();
 	}
+}
+
 	
 	
 	

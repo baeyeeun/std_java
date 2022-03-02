@@ -4,9 +4,15 @@ public class ComputerExample {
 
 	public static void main(String[] args) {
 		
+		int r = 10;
+		
+		Calculator calculator = new Calculator();
+		
+		System.out.println("원 면적 : " + calculator.areaCircle(2));
+		
 		Computer computer = new Computer();
 		
-		computer.areaCircle(1.0);
+		System.out.println("원 면적 : " + computer.areaCircle(2));
 
 	}
 

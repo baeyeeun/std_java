@@ -3,8 +3,8 @@ package com.jjava.lecture.ch07;
 public class MyFriendDetailInfo extends MyFriendInfo{
 
 
-		String friendAddress;
-		String friendNumber;
+		String friendAddress="¼º±Õ°ü";
+		String friendNumber= "010-1000-8888";
 		
 
 		
@@ -15,7 +15,10 @@ public class MyFriendDetailInfo extends MyFriendInfo{
 			this.friendNumber = friendNumber;
 			this.friendAddress = friendAddress;
 			
+			
 		}
+		
+		
 
 	
 

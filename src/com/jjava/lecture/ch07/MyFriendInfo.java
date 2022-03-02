@@ -4,14 +4,8 @@ package com.jjava.lecture.ch07;
 
 public class MyFriendInfo {
 
-	String friendName;
-	int friendAge = 0;
+	String friendName = "ÀÌ¼ø½Å";
+	int friendAge = 100;
 	
 
-	MyFriendInfo(String friendName, int friendAge) {
-		
-		this.friendName = friendName;
-		this.friendAge = friendAge;
-		
-	}
 }

@@ -15,7 +15,7 @@ public class Test {
 			System.out.println(i+"X"+j+"="+i*j); }
 		
 		} if(i % 2 == 0) {			
-	 	} else if(j % 2 == 0) {
+	 	//} else if(j % 2 == 0) {
 			
 			
 		}

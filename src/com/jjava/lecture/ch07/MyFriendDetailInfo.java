@@ -3,20 +3,27 @@ package com.jjava.lecture.ch07;
 public class MyFriendDetailInfo extends MyFriendInfo{
 
 
-		String friendAddress="¼º±Õ°ü";
-		String friendNumber= "010-1000-8888";
+		String friendAddress="";
+		String friendNumber= "";
+		
+		public String getFriendAddress() {
+			return friendAddress;
+		}
+		public void setFriendAddress(String friendAddress) {
+			this.friendAddress = friendAddress;
+		}
+		public String getFriendNumber() {
+			return friendNumber;
+		}
+		public void setFriendNumber(String friendNumber) {
+			this.friendNumber = friendNumber;
+		}
+		
+		
 		
 
 		
-		MyFriendDetailInfo(String friendName, int friendAge, String friendAddress, String friendNumber) {
-			
-			this.friendName = friendName;
-			this.friendAge = friendAge;
-			this.friendNumber = friendNumber;
-			this.friendAddress = friendAddress;
-			
-			
-		}
+		
 		
 		
 

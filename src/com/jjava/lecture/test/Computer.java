@@ -2,8 +2,6 @@ package com.jjava.lecture.test;
 
 public class Computer extends Calculator {
 		
-		
-
 
 	@Override
 	public double areaCircle(int param) {

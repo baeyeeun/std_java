@@ -16,5 +16,10 @@ public class SmartTelevision implements RemoteControl {
 			this.volume = RemoteControl.MAX_VOLUME;
 		}
 	}
+	@Override
+	public void setVulume(int Volume) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
